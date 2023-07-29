@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-mein()
+main()
 {
 
   bool x = true;
